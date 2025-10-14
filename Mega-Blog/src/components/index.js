@@ -3,7 +3,7 @@ import Header from "./header/Header.jsx";
 import Footer from "./footer/Footer.jsx";
 import Container from "./container/Container.jsx";
 import Logo from "./Logo";
-import LogoutBtn from "./Header/LogoutBtn";
+import LogoutButton from "./header/LogoutButton.jsx";
 import RTE from "./RTE";
 import Signup from "./Signup";
 import Login from "./Login";
@@ -17,7 +17,7 @@ export {
     Footer,
     Container,
     Logo,
-    LogoutBtn,
+    LogoutButton,
     RTE,
     Signup,
     Login,
